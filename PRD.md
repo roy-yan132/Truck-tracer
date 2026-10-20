@@ -31,5 +31,9 @@ This document describes the requirements for the truck navigation and monitoring
 ### Modifiability
 ### Reusability
 ### Efficiency
+### Security & Privacy
+
+## 6.Constraints
+
 
 
