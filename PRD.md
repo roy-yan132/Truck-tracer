@@ -12,8 +12,8 @@ It defines what the system must do and how well it must do it, and serves as the
 
 ## 3.Scope
 
-In scope: GPS, navigation, truck information management, driver behavior and alerts, reporting, user and role management
-Out of scope: payroll, cargo billing, maintenance scheduling, integration with third-party ERP systems.
+* In scope: GPS, navigation, truck information management, driver behavior and alerts, reporting, user and role management
+* Out of scope: payroll, cargo billing, maintenance scheduling, integration with third-party ERP systems.
 
 ## 4.Users
 
